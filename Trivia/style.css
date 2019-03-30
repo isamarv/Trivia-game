@@ -1,0 +1,14 @@
+body{
+	background-image: url(http://medias.fantrippers.com/cache/news_medium_5a5721d59d04f8bf5a4f-0745-45e6-b57a-3cc95f1bd3cf.jpg);
+	text-align: center;
+}
+
+.text-muted{
+	color: black;
+}
+.last-seconds{
+  color: yellow;
+}
+.option{
+  margin: 15px;
+}
